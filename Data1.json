@@ -4,7 +4,7 @@
       "date": "14/7/2017",
       "description": "Learn how to ride a bike",
       "label": "PJ 011/2017",
-      "meeting": "3th Meeting",
+      "meeting": "Book 3",
       "status": "approved",
       "type": "project"
     },
@@ -12,7 +12,7 @@
       "date": "14/7/2017",
       "description": "Create an app",
       "label": "PJ 012/2017",
-      "meeting": "3th Meeting",
+      "meeting": "Book 3",
       "status": "analysis",
       "type": "project"
     },
@@ -20,7 +20,7 @@
       "date": "11/7/2017",
       "description": "Learn how to ride a bike",
       "label": "PJ 011/2017",
-      "meeting": "1st Meeting",
+      "meeting": "Book 1",
       "status": "presented",
       "type": "project"
     },
@@ -28,7 +28,7 @@
       "date": "11/7/2017",
       "description": "Create an app",
       "label": "PJ 012/2017",
-      "meeting": "1st Meeting",
+      "meeting": "Book 1",
       "status": "presented",
       "type": "project"
     },
@@ -36,7 +36,7 @@
       "date": "12/7/2017",
       "description": "Create an app",
       "label": "PJ 012/2017",
-      "meeting": "2th Meeting",
+      "meeting": "Book 2",
       "status": "analysis",
       "type": "project"
     },
@@ -44,7 +44,7 @@
       "date": "12/7/2017",
       "description": "Learn how to ride a bike",
       "label": "PJ 011/2017",
-      "meeting": "2th Meeting",
+      "meeting": "Book 2",
       "status": "voting_round_1",
       "type": "project"
     }
