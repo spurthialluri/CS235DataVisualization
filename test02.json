@@ -1,0 +1,744 @@
+{
+  "spells": [
+    {
+      "Book": 1,
+      "Name": "Sorcerer's Stone",
+      "Spell": "Alohomora",
+      "Position": 47346,
+      "Classification": "Charm",
+      "Effect": "Opens locked objects",
+      "SpellLower": "alohomora",
+      "Concordance": "oh, move over, hermione snarled, she grabbed Harry’s wand, tapped the lock, and whispered, alohomora! the lock clicked and the door swung open — they piled through it, shut it quickly,"
+    },
+    {
+      "Book": 1,
+      "Name": "Sorcerer's Stone",
+      "Spell": "Wingardium Leviosa",
+      "Position": 50650,
+      "Classification": "Charm",
+      "Effect": "Makes on object fly",
+      "SpellLower": "wingardiumleviosa",
+      "Concordance": "put it out with his hat, ron, at the next table, wasn’t having much more luck, wingardiumleviosa! he shouted, waving his long arms like a windmill, you’re saying it wrong, Harry heard"
+    },
+    {
+      "Book": 1,
+      "Name": "Sorcerer's Stone",
+      "Spell": "Wingardium Leviosa",
+      "Position": 50714,
+      "Classification": "Charm",
+      "Effect": "Makes on object fly",
+      "SpellLower": "wingardiumleviosa",
+      "Concordance": ", ron snarled, hermione rolled up the sleeves of her gown, flicked her wand, and said, wingardiumleviosa! their feather rose off the desk and hovered about four feet above their heads, oh, well"
+    },
+    {
+      "Book": 1,
+      "Name": "Sorcerer's Stone",
+      "Spell": "Wingardium Leviosa",
+      "Position": 52153,
+      "Classification": "Charm",
+      "Effect": "Makes on object fly",
+      "SpellLower": "wingardiumleviosa",
+      "Concordance": "knowing what he was going to do he heard him­self cry the first spell that came into his head : wingardiumleviosa! the club flew suddenly out of the troll’s hand, rose high, high up into the air"
+    },
+    {
+      "Book": 1,
+      "Name": "Sorcerer's Stone",
+      "Spell": "Locomotor Mortis",
+      "Position": 65427,
+      "Classification": "Curse",
+      "Effect": "Locks opponents legs",
+      "SpellLower": "locomotormortis",
+      "Concordance": "it on snape if he showed any sign of wanting to hurt Harry, now, don’t forget, it’s locomotormortis, hermione muttered as ron slipped his wand up his sleeve, i know, ron snapped, don’t"
+    },
+    {
+      "Book": 1,
+      "Name": "Sorcerer's Stone",
+      "Spell": "Petrificus Totalus",
+      "Position": 80541,
+      "Classification": "Spell",
+      "Effect": "Body - Bind",
+      "SpellLower": "petrificustotalus",
+      "Concordance": "forward, neville, she said, i’m really, really sorry about this, she raised her wand, petrificustotalus! she cried, pointing it at neville, neville’s arms snapped to his sides, his legs sprang"
+    },
+    {
+      "Book": 1,
+      "Name": "Sorcerer's Stone",
+      "Spell": "Alohomora",
+      "Position": 82471,
+      "Classification": "Charm",
+      "Effect": "Opens locked objects",
+      "SpellLower": "alohomora",
+      "Concordance": ". they tugged and heaved at the door, but it wouldn’t budge, not even when hermione tried her alohomora charm, now what? said ron, these birds … they can’t be here just for decoration,"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Eat Slugs",
+      "Position": 20026,
+      "Classification": "Charm",
+      "Effect": "Target Vomits Slugs",
+      "SpellLower": "eatslugs",
+      "Concordance": "think getting your head cut open makes you that special, myself, crabbe and goyle were sniggering stupidly, eatslugs, malfoy, said ron angrily, crabbe stopped laughing and started rubbing his knuckles in a menacing way"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Peskipiksi Pesternomi",
+      "Position": 21548,
+      "Classification": "Spell",
+      "Effect": "Removes Pixies (maybe)",
+      "SpellLower": "peskipiksipesternomi",
+      "Concordance": "they’re only pixies, lockhart shouted, he rolled up his sleeves, brandished his wand, and bellowed, peskipiksipesternomi! it had absolutely no effect; one of the pixies seized his wand and threw it out of"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Homorphus",
+      "Position": 38649,
+      "Classification": "Charm",
+      "Effect": "Lockhart's Werewolf \"cure\"",
+      "SpellLower": "homorphus",
+      "Concordance": "i put my wand to his throat — i then screwed up my remain­ing strength and performed the immensely complex homorphus charm — he let out a piteous moan — go on, Harry — higher than that — good"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "",
+      "Position": 47120,
+      "Classification": "Charm",
+      "Effect": "Disarms your opponent",
+      "SpellLower": "expelliarmus",
+      "Concordance": "— both of them swung their wands above their heads and pointed them at their opponent; snape cried : expelliarmus! there was a dazzling flash of scarlet light and lockhart was blasted off his feet : he flew"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Rictusempra",
+      "Position": 47634,
+      "Classification": "Charm",
+      "Effect": "Tickles opponent",
+      "SpellLower": "rictusempra",
+      "Concordance": "to be working, and wasting no more time, Harry pointed his wand straight at malfoy and shouted, rictusempra! a jet of silver light hit malfoy in the stomach and he doubled up, wheezing, i"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Tarantallegra",
+      "Position": 47736,
+      "Classification": "Spell",
+      "Effect": "Forces opponent to dance",
+      "SpellLower": "tarantallegra",
+      "Concordance": "but this was a mis­take; gasping for breath, malfoy pointed his wand at Harry’s knees, choked, tarantallegra! and the next second Harry’s legs began to jerk around out of his control in a kind of"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Serpensortia",
+      "Position": 48244,
+      "Classification": "Spell",
+      "Effect": "Produces Snake",
+      "SpellLower": "serpensortia",
+      "Concordance": ". three — two — one — go! he shouted, malfoy raised his wand quickly and bellowed, serpensortia! the end of his wand exploded, Harry watched, aghast, as a long black snake shot"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Aparecium",
+      "Position": 59862,
+      "Classification": "Spell",
+      "Effect": "Reveals invisible ink",
+      "SpellLower": "aparecium",
+      "Concordance": "bag, it might be invisible ink! she whispered, she tapped the diary three times and said, aparecium! nothing happened, undaunted, hermione shoved her hand back into her bag and pulled out what appeared"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Expelliarmus",
+      "Position": 61634,
+      "Classification": "Charm",
+      "Effect": "Disarms your opponent",
+      "SpellLower": "expelliarmus",
+      "Concordance": "as a school prefect — but Harry had lost his tem­per, he pulled out his wand and shouted, expelliarmus! and just as snape had disarmed lockhart, so malfoy found the diary shoot­ing out of his hand"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Lumos",
+      "Position": 71115,
+      "Classification": "Spell",
+      "Effect": "Creates light at wand tip",
+      "SpellLower": "lumos",
+      "Concordance": "forest, and lifted his leg against a large sycamore tree, Harry took out his wand, murmured, lumos! and a tiny light appeared at the end of it, just enough to let them watch the"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Expelliarmus",
+      "Position": 79052,
+      "Classification": "Charm",
+      "Effect": "Disarms your opponent",
+      "SpellLower": "expelliarmus",
+      "Concordance": "book — Harry reached his wand just in time, lockhart had barely raised his, when Harry bellowed, expelliarmus! lockhart was blasted backward, falling over his trunk; his wand flew high into the air;"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Lumos",
+      "Position": 80201,
+      "Classification": "Spell",
+      "Effect": "Creates light at wand tip",
+      "SpellLower": "lumos",
+      "Concordance": "around at the dark, slimy walls, all three of them turned to stare into the darkness ahead, lumos! Harry muttered to his wand and it lit again, c’mon, he said to ron and lockhart"
+    },
+    {
+      "Book": 2,
+      "Name": "Chamber of Secrets",
+      "Spell": "Obliviate",
+      "Position": 80665,
+      "Classification": "Charm",
+      "Effect": "Erases memories",
+      "SpellLower": "obliviate",
+      "Concordance": "body — say good-bye to your memories! he raised ron’s spellotaped wand high over his head and yelled, obliviate! the wand exploded with the force of a small bomb, Harry flung his arms over his head"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Lumos",
+      "Position": 1723,
+      "Classification": "Spell",
+      "Effect": "Creates light at wand tip",
+      "SpellLower": "lumos",
+      "Concordance": "only it would move, then he’d know whether it was just a stray cat or — something else, lumos, Harry muttered, and a light appeared at the end of his wand, almost dazzling him,"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Waddiwasi",
+      "Position": 30484,
+      "Classification": "Spell",
+      "Effect": "Unsticks an object",
+      "SpellLower": "waddiwasi",
+      "Concordance": "the class over his shoulder, please watch closely, he raised the wand to shoulder height, said, waddiwasi! and pointed it at peeves, with the force of a bullet, the wad of chewing gum"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Riddikulus",
+      "Position": 31372,
+      "Classification": "Spell",
+      "Effect": "Use this spell and laugh to defeat a boggart",
+      "SpellLower": "riddikulus",
+      "Concordance": "shape that you find amusing, we will practice the charm without wands first, after me, please … riddikulus! riddikulus! said the class together, good, said professor lupin, very good, but that"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Riddikulus",
+      "Position": 31374,
+      "Classification": "Spell",
+      "Effect": "Use this spell and laugh to defeat a boggart",
+      "SpellLower": "riddikulus",
+      "Concordance": "you find amusing, we will practice the charm without wands first, after me, please … riddikulus! riddikulus! said the class together, good, said professor lupin, very good, but that was the"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Riddikulus",
+      "Position": 32211,
+      "Classification": "Spell",
+      "Effect": "Use this spell and laugh to defeat a boggart",
+      "SpellLower": "riddikulus",
+      "Concordance": ", mouthing wordlessly, snape was bearing down upon him, reaching inside his robes, r — r — riddikulus! squeaked neville, there was a noise like a whip crack, snape stumbled; he was wear­ing"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Riddikulus",
+      "Position": 32333,
+      "Classification": "Spell",
+      "Effect": "Use this spell and laugh to defeat a boggart",
+      "SpellLower": "riddikulus",
+      "Concordance": "parvati and it began to walk toward her very slowly, dragging its feet, its stiff arms rising — riddikulus! cried parvati, a bandage unraveled at the mummy’s feet; it became entangled, fell face forward"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Riddikulus",
+      "Position": 32424,
+      "Classification": "Spell",
+      "Effect": "Use this spell and laugh to defeat a boggart",
+      "SpellLower": "riddikulus",
+      "Concordance": "filled the room, a long, wailing shriek that made the hair on Harry’s head stand on end — riddikulus! shouted seamus, the banshee made a rasping noise and clutched her throat; her voice was gone"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Riddikulus",
+      "Position": 32526,
+      "Classification": "Spell",
+      "Effect": "Use this spell and laugh to defeat a boggart",
+      "SpellLower": "riddikulus",
+      "Concordance": "eyeball became a severed hand, which flipped over and began to creep along the floor like a crab, riddikulus! yelled dean, there was a snap, and the hand was trapped in a mousetrap, excellent"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Riddikulus",
+      "Position": 32598,
+      "Classification": "Spell",
+      "Effect": "Use this spell and laugh to defeat a boggart",
+      "SpellLower": "riddikulus",
+      "Concordance": "on ron, clicking its pincers menac­ingly, for a moment, Harry thought ron had frozen, then — riddikulus! bellowed ron, and the spider’s legs vanished; it rolled over and over; lavender brown squealed"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Riddikulus",
+      "Position": 32693,
+      "Classification": "Spell",
+      "Effect": "Use this spell and laugh to defeat a boggart",
+      "SpellLower": "riddikulus",
+      "Concordance": "was, then they saw a silvery-white orb hanging in the air in front of lupin, who said, riddikulus! al­most lazily, crack! forward, neville, and finish him off! said lupin as the"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Riddikulus",
+      "Position": 32736,
+      "Classification": "Spell",
+      "Effect": "Use this spell and laugh to defeat a boggart",
+      "SpellLower": "riddikulus",
+      "Concordance": "the floor as a cockroach, crack! snape was back, this time neville charged forward looking determined, riddikulus! he shouted, and they had a split second’s view of snape in his lacy dress before neville"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Impervius",
+      "Position": 43775,
+      "Classification": "Charm",
+      "Effect": "Makes an object repel water",
+      "SpellLower": "impervius",
+      "Concordance": "to her, and as the team watched in amazement, hermione tapped them with her wand and said, impervius! there! she said, handing them back to Harry, they’ll repel water! wood looked as"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Dissendium",
+      "Position": 48927,
+      "Classification": "Spell",
+      "Effect": "Opens \"One eyed witch\" hump",
+      "SpellLower": "dissendium",
+      "Concordance": "at the map, the tiniest speech bubble had appeared next to his figure, the word inside said, dissendium, dissendium! Harry whispered, tapping the stone witch again, at once, the statue’s hump opened"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Dissendium",
+      "Position": 48929,
+      "Classification": "Spell",
+      "Effect": "Opens \"One eyed witch\" hump",
+      "SpellLower": "dissendium",
+      "Concordance": "map, the tiniest speech bubble had appeared next to his figure, the word inside said, dissendium, dissendium! Harry whispered, tapping the stone witch again, at once, the statue’s hump opened wide enough"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Lumos",
+      "Position": 49025,
+      "Classification": "Spell",
+      "Effect": "Creates light at wand tip",
+      "SpellLower": "lumos",
+      "Concordance": "he stood up, looking around, it was pitch dark, he held up his wand, muttered, lumos! and saw that he was in a very narrow, low, earthy passageway, he raised the"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Mobiliarbus",
+      "Position": 50945,
+      "Classification": "Charm",
+      "Effect": "Moves objects with wand",
+      "SpellLower": "mobiliarbus",
+      "Concordance": "the bar, pause, then turn and walk right toward him, somewhere above him, hermione whispered, mobiliarbus! the christmas tree beside their table rose a few inches off the ground, drifted sideways, and"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Fidelius",
+      "Position": 51967,
+      "Classification": "Charm",
+      "Effect": "Hides a secret within someone",
+      "SpellLower": "fidelius",
+      "Concordance": "course, you-know-who wasn’t an easy person to hide from, dumble­dore told them that their best chance was the fidelius charm, how does that work? said madam rosmerta, breathless with interest, professor flitwick cleared his"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Fidelius",
+      "Position": 52224,
+      "Classification": "Charm",
+      "Effect": "Hides a secret within someone",
+      "SpellLower": "fidelius",
+      "Concordance": "insisted on using black? he did, said fudge heavily, and then, barely a week after the fidelius charm had been performed — black betrayed them? breathed madam rosmerta, he did indeed, black was"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 61735,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "possible the won­derful, soaring sensation of his stomach, the incantation is this — lupin cleared his throat, expectopatronum! expectopatronum, Harry repeated under his breath, expectopatronum, concentrating hard on your happy memory? oh"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 61737,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "won­derful, soaring sensation of his stomach, the incantation is this — lupin cleared his throat, expectopatronum! expectopatronum, Harry repeated under his breath, expectopatronum, concentrating hard on your happy memory? oh — yeah"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 61745,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "the incantation is this — lupin cleared his throat, expectopatronum! expectopatronum, Harry repeated under his breath, expectopatronum, concentrating hard on your happy memory? oh — yeah — said Harry, quickly forcing his thoughts"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 61781,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "quickly forcing his thoughts back to that first broom ride, expecto patrono — no, patronum — sorry — expectopatronum, expectopatronum — something whooshed suddenly out of the end of his wand; it looked like a wisp"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 61783,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "his thoughts back to that first broom ride, expecto patrono — no, patronum — sorry — expectopatronum, expectopatronum — something whooshed suddenly out of the end of his wand; it looked like a wisp of silvery"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 61983,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "silently toward Harry, drawing a deep, rattling breath, a wave of piercing cold broke over him — expectopatronum! Harry yelled, expectopatronum! ex­pecto — but the classroom and the dementor were dissolving, … Harry"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 61988,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "a deep, rattling breath, a wave of piercing cold broke over him — expectopatronum! Harry yelled, expectopatronum! ex­pecto — but the classroom and the dementor were dissolving, … Harry was falling again through thick"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 62420,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "once more, the dementor glided forward, drawing its breath; one rotting hand was extending toward Harry — expectopatronum! Harry yelled, expectopatronum! expecto pat — white fog obscured his senses … big, blurred shapes"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 62425,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "glided forward, drawing its breath; one rotting hand was extending toward Harry — expectopatronum! Harry yelled, expectopatronum! expecto pat — white fog obscured his senses … big, blurred shapes were mov­ing around him …"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 62872,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "for the third time, and the de­mentor rose out of it; the room fell cold and dark — expectopatronum! Harry bellowed, expecto pa­tronum! expectopatronum! the screaming inside Harry’s head had started again — except"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 62880,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "rose out of it; the room fell cold and dark — expectopatronum! Harry bellowed, expecto pa­tronum! expectopatronum! the screaming inside Harry’s head had started again — except this time, it sounded as though it"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Riddikulus",
+      "Position": 62977,
+      "Classification": "Spell",
+      "Effect": "Use this spell and laugh to defeat a boggart",
+      "SpellLower": "riddikulus",
+      "Concordance": "like water, he was still on his feet — though for how much longer, he wasn’t sure — riddikulus! roared lupin, springing forward, there was a loud crack, and Harry’s cloudy patronus vanished along"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Lumos",
+      "Position": 67291,
+      "Classification": "Spell",
+      "Effect": "Creates light at wand tip",
+      "SpellLower": "lumos",
+      "Concordance": "ribs, what’s the matter? said ron, Harry pointed, ron pulled out his wand and muttered, lumos! a beam of light fell across the grass, hit the bottom of a tree, and illuminated"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 69059,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "think, plunging a hand down the neck of his robes, he whipped out his wand and roared, expectopatronum! something silver-white, something enormous, erupted from the end of his wand, he knew it had"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Dissendium",
+      "Position": 73123,
+      "Classification": "Spell",
+      "Effect": "Opens \"One eyed witch\" hump",
+      "SpellLower": "dissendium",
+      "Concordance": ". the minuscule writing next to it read neville longbottom, Harry quickly pulled out his wand, muttered, dissendium! and shoved his bag into the statue, but before he could climb in himself, neville came"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Lumos",
+      "Position": 89991,
+      "Classification": "Spell",
+      "Effect": "Creates light at wand tip",
+      "SpellLower": "lumos",
+      "Concordance": "shriek with pain and fall too, Harry groped for his wand, blinking blood out of his eyes — lumos! he whispered, the wandlight showed him the trunk of a thick tree; they had chased scabbers"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Nox",
+      "Position": 90956,
+      "Classification": "Spell",
+      "Effect": "Counter to Lumos",
+      "SpellLower": "nox",
+      "Concordance": "where a wide shiny stripe had been made by some­thing being dragged upstairs, they reached the dark landing, nox, they whispered together, and the lights at the end of their wands went out, only one"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expelliarmus",
+      "Position": 91209,
+      "Classification": "Charm",
+      "Effect": "Disarms your opponent",
+      "SpellLower": "expelliarmus",
+      "Concordance": "it looked like a skull, his yellow teeth were bared in a grin, it was sirius black, expelliarmus! he croaked, pointing ron’s wand at them, Harry’s and hermione’s wands shot out of their hands"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expelliarmus",
+      "Position": 92661,
+      "Classification": "Charm",
+      "Effect": "Disarms your opponent",
+      "SpellLower": "expelliarmus",
+      "Concordance": "there with his wand covering black, and then to black himself, crumpled and bleeding at Harry’s feet, expelliarmus! lupin shouted, Harry’s wand flew once more out of his hand; so did the two hermione"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expelliarmus",
+      "Position": 97969,
+      "Classification": "Charm",
+      "Effect": "Disarms your opponent",
+      "SpellLower": "expelliarmus",
+      "Concordance": "a split second, before snape could take even one step toward him, he had raised his wand, expelliarmus! he yelled — except that his wasn’t the only voice that shouted, there was a blast that"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Ferula",
+      "Position": 102843,
+      "Classification": "Spell",
+      "Effect": "Creates bandages",
+      "SpellLower": "ferula",
+      "Concordance": ". he hurried over to ron, bent down, tapped ron’s leg with his wand, and muttered, ferula, bandages spun up ron’s leg, strapping it tightly to a splint, lupin helped him to his"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Mobilicorpus",
+      "Position": 102965,
+      "Classification": "Spell",
+      "Effect": "Moves unconscious bodies",
+      "SpellLower": "mobilicorpus",
+      "Concordance": "him until we’re safely back in the castle, we can take him like this, … he muttered, mobilicorpus, as though invisible strings were tied to snape’s wrists, neck, and knees, he was pulled"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expelliarmus",
+      "Position": 104191,
+      "Classification": "Charm",
+      "Effect": "Disarms your opponent",
+      "SpellLower": "expelliarmus",
+      "Concordance": "the ground, another bang — crookshanks flew into the air and back to the earth in a heap, expelliarmus! Harry yelled, pointing his own wand at petti­grew; lupin’s wand flew high into the air and"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 104738,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "the dursleys, he forced himself to think of black, and only black, and began to chant : expectopatronum! expectopatronum! black gave a shudder, rolled over, and lay motionless on the ground, pale"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 104740,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": ". he forced himself to think of black, and only black, and began to chant : expectopatronum! expectopatronum! black gave a shudder, rolled over, and lay motionless on the ground, pale as death"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 104775,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "ground, pale as death, he’ll be all right, i’m going to go and live with him, expectopatronum! hermione, help me! expectopatronum! expecto — hermione whispered, expecto — expecto — but she"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 104782,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "be all right, i’m going to go and live with him, expectopatronum! hermione, help me! expectopatronum! expecto — hermione whispered, expecto — expecto — but she couldn’t do it, the dementors were"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 104827,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "feet from them, they formed a solid wall around Harry and hermione, and were getting closer, … expectopatronum! Harry yelled, trying to blot the screaming from his ears, expectopatronum! a thin wisp of"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 104841,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "and were getting closer, … expectopatronum! Harry yelled, trying to blot the screaming from his ears, expectopatronum! a thin wisp of silver escaped his wand and hovered like mist be­fore him, at the same"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 104881,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "moment, Harry felt hermione collapse next to him, he was alone … completely alone, … expecto — expectopatronum — Harry felt his knees hit the cold grass, fog was clouding his eyes, with a huge"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 104925,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "to remember — sirius was inno­cent — innocent — we’ll be okay — i’m going to live with him — expectopatronum! he gasped, by the feeble light of his formless patronus, he saw a dementor halt,"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 104999,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "as though to sweep the patronus aside, no — no — Harry gasped, he’s innocent … expecto — expectopatronum — he could feel them watching him, hear their rattling breath like an evil wind around him,"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 105134,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "fight … expecto pa­tronum … he couldn’t see … and in the distance, he heard the fa­miliar screaming … expectopatronum … he groped in the mist for sirius, and found his arm … they weren’t going to take"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Confundus",
+      "Position": 105584,
+      "Classification": "Charm",
+      "Effect": "Used to confuse opponent",
+      "SpellLower": "confundus",
+      "Concordance": ", and granger, minis­ter, … no! black had bewitched them, i saw it immediately, a confundus charm, to judge by their behavior, they seemed to think there was a possibility he was innocent"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Expecto Patronum",
+      "Position": 112889,
+      "Classification": "Charm",
+      "Effect": "Creates a Patronus",
+      "SpellLower": "expectopatronum",
+      "Concordance": "— he had seen himself — Harry flung himself out from behind the bush and pulled out his wand, expectopatronum! he yelled, and out of the end of his wand burst, not a shapeless cloud of"
+    },
+    {
+      "Book": 3,
+      "Name": "Prisoner of Azkaban",
+      "Spell": "Alohomora",
+      "Position": 113864,
+      "Classification": "Charm",
+      "Effect": "Opens locked objects",
+      "SpellLower": "alohomora",
+      "Concordance": ", and she took out her wand, still gripping the back of Harry’s robes with her left hand, alohomora! the window sprang open, how — how —? said black weakly, staring at the hippogriff"
+    }
+  ]
+}
