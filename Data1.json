@@ -6,7 +6,8 @@
       "label": "PJ 011/2017",
       "meeting": "Book 7",
       "status": "approved",
-      "type": "project"
+      "type": "project",
+      "position": "1"
     },
     {
       "date": "6",
@@ -14,7 +15,8 @@
       "label": "PJ 011/2017",
       "meeting": "Book 6",
       "status": "approved",
-      "type": "project"
+      "type": "project",
+      "position": "1" 
     },
     {
       "date": "5",
@@ -22,7 +24,8 @@
       "label": "PJ 011/2017",
       "meeting": "Book 5",
       "status": "approved",
-      "type": "project"
+      "type": "project",
+      "position": "2"  
     },
     {
       "date": "4",
@@ -30,7 +33,8 @@
       "label": "PJ 011/2017",
       "meeting": "Book 4",
       "status": "approved",
-      "type": "project"
+      "type": "project",
+      "position": "1" 
     },
     {
       "date": "3",
@@ -38,7 +42,8 @@
       "label": "PJ 011/2017",
       "meeting": "Book 3",
       "status": "approved",
-      "type": "project"
+      "type": "project",
+      "position": "1"   
     },
     {
       "date": "3",
@@ -46,7 +51,8 @@
       "label": "PJ 012/2017",
       "meeting": "Book 3",
       "status": "testing",
-      "type": "project"
+      "type": "project",
+      "position": "2"   
     },
     {
       "date": "1",
@@ -54,7 +60,8 @@
       "label": "PJ 011/2017",
       "meeting": "Book 1",
       "status": "presented",
-      "type": "project"
+      "type": "project",
+      "position": "2"   
     },
     {
       "date": "1",
@@ -62,7 +69,8 @@
       "label": "PJ 012/2017",
       "meeting": "Book 1",
       "status": "presented",
-      "type": "project"
+      "type": "project",
+      "position": "1"   
     },
     {
       "date": "2",
@@ -70,7 +78,8 @@
       "label": "PJ 012/2017",
       "meeting": "Book 2",
       "status": "analysis",
-      "type": "project"
+      "type": "project",
+      "position": "1"  
     },
     {
       "date": "2",
@@ -78,7 +87,8 @@
       "label": "PJ 011/2017",
       "meeting": "Book 2",
       "status": "voting_round_1",
-      "type": "project"
+      "type": "project",
+      "position": "2"   
     }
   ]
 }
