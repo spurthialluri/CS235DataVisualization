@@ -1,7 +1,7 @@
 ﻿{
     "spells": [
     {
-      "date": "14/7/2017",
+      "date": "3",
       "description": "Learn how to ride a bike",
       "label": "PJ 011/2017",
       "meeting": "Book 3",
@@ -9,7 +9,7 @@
       "type": "project"
     },
     {
-      "date": "14/7/2017",
+      "date": "3",
       "description": "Create an app",
       "label": "PJ 012/2017",
       "meeting": "Book 3",
@@ -17,7 +17,7 @@
       "type": "project"
     },
     {
-      "date": "11/7/2017",
+      "date": "1",
       "description": "Learn how to ride a bike",
       "label": "PJ 011/2017",
       "meeting": "Book 1",
@@ -25,7 +25,7 @@
       "type": "project"
     },
     {
-      "date": "11/7/2017",
+      "date": "1",
       "description": "Create an app",
       "label": "PJ 012/2017",
       "meeting": "Book 1",
@@ -33,7 +33,7 @@
       "type": "project"
     },
     {
-      "date": "12/7/2017",
+      "date": "2",
       "description": "Create an app",
       "label": "PJ 012/2017",
       "meeting": "Book 2",
@@ -41,7 +41,7 @@
       "type": "project"
     },
     {
-      "date": "12/7/2017",
+      "date": "2",
       "description": "Learn how to ride a bike",
       "label": "PJ 011/2017",
       "meeting": "Book 2",
