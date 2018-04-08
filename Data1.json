@@ -1,94 +1,104 @@
 ﻿{
     "spells": [
     {
-      "date": "7",
-      "description": "Learn how to ride an aeroplane",
-      "label": "PJ 011/2017",
-      "meeting": "Book 7",
-      "status": "approved",
-      "type": "project",
-      "position": "1"
+      "Book": "7",
+      "Effect": "Learn how to ride an aeroplane",
+      "Spell": "PJ 011/2017",
+      "Name": "Book 7",
+      "SpellLower": "approved",
+      "Classification": "project",
+      "Position": "1",
+      "Concordance": "abc" 
     },
     {
-      "date": "6",
-      "description": "Learn how to ride a boat",
-      "label": "PJ 011/2017",
-      "meeting": "Book 6",
-      "status": "approved",
-      "type": "project",
-      "position": "1" 
+      "Book": "6",
+      "Effect": "Learn how to ride a boat",
+      "Spell": "PJ 011/2017",
+      "Name": "Book 6",
+      "SpellLower": "approved",
+      "Classification": "project",
+      "Position": "1" ,
+      "Concordance": "abc"
     },
     {
-      "date": "5",
-      "description": "Learn how to ride a bus",
-      "label": "PJ 011/2017",
-      "meeting": "Book 5",
-      "status": "approved",
-      "type": "project",
-      "position": "2"  
+      "Book": "5",
+      "Effect": "Learn how to ride a bus",
+      "Spell": "PJ 011/2017",
+      "Name": "Book 5",
+      "SpellLower": "approved",
+      "Classification": "project",
+      "Position": "2",
+      "Concordance": "abc"  
     },
     {
-      "date": "4",
-      "description": "Learn how to ride a car",
-      "label": "PJ 011/2017",
-      "meeting": "Book 4",
-      "status": "approved",
-      "type": "project",
-      "position": "1" 
+      "Book": "4",
+      "Effect": "Learn how to ride a car",
+      "Spell": "PJ 011/2017",
+      "Name": "Book 4",
+      "SpellLower": "approved",
+      "Classification": "project",
+      "Position": "1",
+      "Concordance": "abc" 
     },
     {
-      "date": "3",
-      "description": "Learn how to ride a bike",
-      "label": "PJ 011/2017",
-      "meeting": "Book 3",
-      "status": "approved",
-      "type": "project",
-      "position": "1"   
+      "Book": "3",
+      "Effect": "Learn how to ride a bike",
+      "Spell": "PJ 011/2017",
+      "Name": "Book 3",
+      "SpellLower": "approved",
+      "Classification": "project",
+      "Position": "1",
+      "Concordance": "abc"   
     },
     {
-      "date": "3",
-      "description": "Create an app",
-      "label": "PJ 012/2017",
-      "meeting": "Book 3",
-      "status": "testing",
-      "type": "project",
-      "position": "2"   
+      "Book": "3",
+      "Effect": "Create an app",
+      "Spell": "PJ 012/2017",
+      "Name": "Book 3",
+      "SpellLower": "testing",
+      "Classification": "project",
+      "Position": "2",
+      "Concordance": "abc"   
     },
     {
-      "date": "1",
-      "description": "Learn how to ride a bike",
-      "label": "PJ 011/2017",
-      "meeting": "Book 1",
-      "status": "presented",
-      "type": "project",
-      "position": "2"   
+      "Book": "1",
+      "Effect": "Learn how to ride a bike",
+      "Spell": "PJ 011/2017",
+      "Name": "Book 1",
+      "SpellLower": "presented",
+      "Classification": "project",
+      "Position": "2",
+      "Concordance": "abc"   
     },
     {
-      "date": "1",
-      "description": "Create an app",
-      "label": "PJ 012/2017",
-      "meeting": "Book 1",
-      "status": "presented",
-      "type": "project",
-      "position": "1"   
+      "Book": "1",
+      "Effect": "Create an app",
+      "Spell": "PJ 012/2017",
+      "Name": "Book 1",
+      "SpellLower": "presented",
+      "Classification": "project",
+      "Position": "1",
+      "Concordance": "abc"   
     },
     {
-      "date": "2",
-      "description": "Create an app",
-      "label": "PJ 012/2017",
-      "meeting": "Book 2",
-      "status": "analysis",
-      "type": "project",
-      "position": "1"  
+      "Book": "2",
+      "Effect": "Create an app",
+      "Spell": "PJ 012/2017",
+      "Name": "Book 2",
+      "SpellLower": "analysis",
+      "Classification": "project",
+      "Position": "1",
+      "Concordance": "abc"  
     },
     {
-      "date": "2",
-      "description": "Learn how to ride a bike",
-      "label": "PJ 011/2017",
-      "meeting": "Book 2",
-      "status": "voting_round_1",
-      "type": "project",
-      "position": "2"   
+      "Book": "2",
+      "Effect": "Learn how to ride a bike",
+      "Spell": "PJ 011/2017",
+      "Name": "Book 2",
+      "SpellLower": "voting_round_1",
+      "Classification": "project",
+      "Position": "2",
+      "Concordance": "abc"   
     }
   ]
 }
