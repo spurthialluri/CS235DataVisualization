@@ -1,6 +1,38 @@
 ﻿{
     "spells": [
     {
+      "date": "7",
+      "description": "Learn how to ride an aeroplane",
+      "label": "PJ 011/2017",
+      "meeting": "Book 7",
+      "status": "approved",
+      "type": "project"
+    },
+    {
+      "date": "6",
+      "description": "Learn how to ride a boat",
+      "label": "PJ 011/2017",
+      "meeting": "Book 6",
+      "status": "approved",
+      "type": "project"
+    },
+    {
+      "date": "5",
+      "description": "Learn how to ride a bus",
+      "label": "PJ 011/2017",
+      "meeting": "Book 5",
+      "status": "approved",
+      "type": "project"
+    },
+    {
+      "date": "4",
+      "description": "Learn how to ride a car",
+      "label": "PJ 011/2017",
+      "meeting": "Book 4",
+      "status": "approved",
+      "type": "project"
+    },
+    {
       "date": "3",
       "description": "Learn how to ride a bike",
       "label": "PJ 011/2017",
