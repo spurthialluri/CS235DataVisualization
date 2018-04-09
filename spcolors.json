@@ -1,0 +1,373 @@
+{
+
+  "spcolors": [
+    {
+      "Spell": "Protego",
+      "Colors": "#66C2FF"
+    },
+    {
+      "Spell": "Expecto Patronum",
+      "Colors": "#007ACC"
+    },
+    {
+      "Spell": "Scruge",
+      "Colors": "#400080"
+    },
+    {
+      "Spell": "Expelliarmus",
+      "Colors": "#CC99FF"
+    },
+    {
+      "Spell": "Engorgio",
+      "Colors": "#990099"
+    },
+    {
+      "Spell": "Obliviate",
+      "Colors": "#FF66FF"
+    },
+    {
+      "Spell": "Fidelius",
+      "Colors": "#E6AC00"
+    },
+    {
+      "Spell": "Homorphus",
+      "Colors": "#990000"
+    },
+    {
+      "Spell": "Impervius",
+      "Colors": "#CCFFFF"
+    },
+    {
+      "Spell": "Wingardium Leviosa",
+      "Colors": "#FF6600"
+    },
+    {
+      "Spell": "Mobiliarbus",
+      "Colors": "#803300"
+    },
+    {
+      "Spell": "Alohomora",
+      "Colors": "#4DFF4D"
+    },
+    {
+      "Spell": "Immobulus",
+      "Colors": "#004D99"
+    },
+    {
+      "Spell": "Aguamenti",
+      "Colors": "#99FFFF"
+    },
+    {
+      "Spell": "Impedimenta",
+      "Colors": "#bdfce6"
+    },
+    {
+      "Spell": "Accio",
+      "Colors": "#8950e1"
+    },
+    {
+      "Spell": "Eat Slugs",
+      "Colors": "#b5b197"
+    },
+    {
+      "Spell": "Rictusempra",
+      "Colors": "#b5fc5f"
+    },
+    {
+      "Spell": "Avifors",
+      "Colors": "#5bd512"
+    },
+    {
+      "Spell": "Confundus",
+      "Colors": "#11fdde"
+    },
+    {
+      "Spell": "Point Me",
+      "Colors": "#cf67d7"
+    },
+    {
+      "Spell": "Imperio",
+      "Colors": "#af2876"
+    },
+    {
+      "Spell": "Conjunctivitis",
+      "Colors": "#801a9a"
+    },
+    {
+      "Spell": "Confringo",
+      "Colors": "#a790d9"
+    },
+    {
+      "Spell": "Locomotor Mortis",
+      "Colors": "#362d93"
+    },
+    {
+      "Spell": "Avada Kedavra",
+      "Colors": "#421fd3"
+    },
+    {
+      "Spell": "Furnunculus",
+      "Colors": "#5c275b"
+    },
+    {
+      "Spell": "Crucio",
+      "Colors": "#a82357"
+    },
+    {
+      "Spell": "Flipendo",
+      "Colors": "#5ac28a"
+    },
+    {
+      "Spell": "Legilimens",
+      "Colors": "#20493d"
+    },
+    {
+      "Spell": "Flagrate",
+      "Colors": "#4b92b1"
+    },
+    {
+      "Spell": "Sonorus",
+      "Colors": "#a203d0"
+    },
+    {
+      "Spell": "Piertotum Locomotor",
+      "Colors": "#5afd67"
+    },
+    {
+      "Spell": "Protego Totalum",
+      "Colors": "#c046c9"
+    },
+    {
+      "Spell": "Reducto",
+      "Colors": "#72a4a9"
+    },
+    {
+      "Spell": "Obscuro",
+      "Colors": "#4bd605"
+    },
+    {
+      "Spell": "Petrificus Totalus",
+      "Colors": "#4bd605"
+    },
+    {
+      "Spell": "Meteolojinx Recanto",
+      "Colors": "#90a041"
+    },
+    {
+      "Spell": "Sectumsempra",
+      "Colors": "#dba4a8"
+    },
+    {
+      "Spell": "Tergeo",
+      "Colors": "#c00494"
+    },
+    {
+      "Spell": "Anapneo",
+      "Colors": "#0fb6ed"
+    },
+    {
+      "Spell": "Orchideous",
+      "Colors": "#535fa6"
+    },
+    {
+      "Spell": "Morsmordre",
+      "Colors": "#ee4fad"
+    },
+    {
+      "Spell": "Quietus",
+      "Colors": "#46dab4"
+    },
+    {
+      "Spell": "Nox",
+      "Colors": "#4cb2a5"
+    },
+    {
+      "Spell": "Deletrius",
+      "Colors": "#c4b7c9"
+    },
+    {
+      "Spell": "Ennervate",
+      "Colors": "#6b1910"
+    },
+    {
+      "Spell": "Liberacorpus",
+      "Colors": "#d6d3eb"
+    },
+    {
+      "Spell": "Ferula",
+      "Colors": "#3c7178"
+    },
+    {
+      "Spell": "Lumos",
+      "Colors": "#d84625"
+    },
+    {
+      "Spell": "Rennervate",
+      "Colors": "#f1bd9b"
+    },
+    {
+      "Spell": "Defodio",
+      "Colors": "#fd7e05"
+    },
+    {
+      "Spell": "Geminio",
+      "Colors": "#b1e764"
+    },
+    {
+      "Spell": "Densaugeo",
+      "Colors": "#fed227"
+    },
+    {
+      "Spell": "Erecto",
+      "Colors": "#f55ab8"
+    },
+    {
+      "Spell": "Tarantallegra",
+      "Colors": "#38d8dc"
+    },
+    {
+      "Spell": "Langlock",
+      "Colors": "#087088"
+    },
+    {
+      "Spell": "Levicorpus",
+      "Colors": "#6fdafa"
+    },
+    {
+      "Spell": "Episkey",
+      "Colors": "#e40e64"
+    },
+    {
+      "Spell": "Repello Muggletum",
+      "Colors": "#f564ed"
+    },
+    {
+      "Spell": "Stupefy",
+      "Colors": "#1a4a47"
+    },
+    {
+      "Spell": "Avis",
+      "Colors": "#424d82"
+    },
+    {
+      "Spell": "Colloportus",
+      "Colors": "#9de230"
+    },
+    {
+      "Spell": "Oppugno",
+      "Colors": "#d9a3aa"
+    },
+    {
+      "Spell": "Expulso",
+      "Colors": "#1a23d9"
+    },
+    {
+      "Spell": "Duro",
+      "Colors": "#d9a3aa"
+    },
+    {
+      "Spell": "Mobilicorpus",
+      "Colors": "#c65508"
+    },
+    {
+      "Spell": "Dissendium",
+      "Colors": "#d19ad1"
+    },
+    {
+      "Spell": "Pack",
+      "Colors": "#5eab12"
+    },
+    {
+      "Spell": "Muffliato",
+      "Colors": "#bdc62b"
+    },
+    {
+      "Spell": "Serpensortia",
+      "Colors": "#a5d55c"
+    },
+    {
+      "Spell": "Salvio Hexia",
+      "Colors": "#f4dc98"
+    },
+    {
+      "Spell": "Protego Horribilis",
+      "Colors": "#bc78a3"
+    },
+    {
+      "Spell": "Relashio",
+      "Colors": "#740b15"
+    },
+    {
+      "Spell": "Peskipiksi Pesternomi",
+      "Colors": "#29f7d6"
+    },
+    {
+      "Spell": "Reparo",
+      "Colors": "#d8340e"
+    },
+    {
+      "Spell": "Priori Incantatum",
+      "Colors": "#fcad35"
+    },
+    {
+      "Spell": "Reducio",
+      "Colors": "#81c3ab"
+    },
+    {
+      "Spell": "Prior Incantato",
+      "Colors": "#e878b9"
+    },
+    {
+      "Spell": "Specialis Revelio",
+      "Colors": "#258b22"
+    },
+    {
+      "Spell": "Homenum Revelio",
+      "Colors": "#b5eef5"
+    },
+    {
+      "Spell": "Aparecium",
+      "Colors": "#edd1b9"
+    },
+    {
+      "Spell": "Silencio",
+      "Colors": "#ccc3eb"
+    },
+    {
+      "Spell": "Diffindo",
+      "Colors": "#ccc3eb"
+    },
+    {
+      "Spell": "Incendio",
+      "Colors": "#415995"
+    },
+    {
+      "Spell": "Finite Incantatum",
+      "Colors": "#8c260f"
+    },
+    {
+      "Spell": "Cave Inimicum",
+      "Colors": "#6485f4"
+    },
+    {
+      "Spell": "Incarcerous",
+      "Colors": "#885476"
+    },
+    {
+      "Spell": "Glisseo",
+      "Colors": "#fc9dda"
+    },
+    {
+      "Spell": "Waddiwasi",
+      "Colors": "#0fe43b"
+    },
+    {
+      "Spell": "Riddikulus",
+      "Colors": "#fce929"
+    },
+    {
+      "Spell": "Deprimo",
+      "Colors": "#bb5521"
+    }
+  ]
+}
