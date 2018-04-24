@@ -1,0 +1,324 @@
+{
+"spells":
+[
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 280,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "the incantation is this � lupin cleared his throat, expectopatronum! expectopatronum, Harry repeated under his breath, expectopatronum, concentrating hard on your happy memory? oh � yeah � said Harry, quickly forcing his thoughts"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "won�derful, soaring sensation of his stomach, the incantation is this � lupin cleared his throat, expectopatronum! expectopatronum, Harry repeated under his breath, expectopatronum, concentrating hard on your happy memory? oh � yeah"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "quickly forcing his thoughts back to that first broom ride, expecto patrono � no, patronum � sorry � expectopatronum, expectopatronum � something whooshed suddenly out of the end of his wand; it looked like a wisp"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "his thoughts back to that first broom ride, expecto patrono � no, patronum � sorry � expectopatronum, expectopatronum � something whooshed suddenly out of the end of his wand; it looked like a wisp of silvery"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "silently toward Harry, drawing a deep, rattling breath, a wave of piercing cold broke over him � expectopatronum! Harry yelled, expectopatronum! ex�pecto � but the classroom and the dementor were dissolving, � Harry"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "a deep, rattling breath, a wave of piercing cold broke over him � expectopatronum! Harry yelled, expectopatronum! ex�pecto � but the classroom and the dementor were dissolving, � Harry was falling again through thick"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "once more, the dementor glided forward, drawing its breath; one rotting hand was extending toward Harry � expectopatronum! Harry yelled, expectopatronum! expecto pat � white fog obscured his senses � big, blurred shapes"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "glided forward, drawing its breath; one rotting hand was extending toward Harry � expectopatronum! Harry yelled, expectopatronum! expecto pat � white fog obscured his senses � big, blurred shapes were mov�ing around him �"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "for the third time, and the de�mentor rose out of it; the room fell cold and dark � expectopatronum! Harry bellowed, expecto pa�tronum! expectopatronum! the screaming inside Harry�s head had started again � except"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "rose out of it; the room fell cold and dark � expectopatronum! Harry bellowed, expecto pa�tronum! expectopatronum! the screaming inside Harry�s head had started again � except this time, it sounded as though it"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "possible the won�derful, soaring sensation of his stomach, the incantation is this � lupin cleared his throat, expectopatronum! expectopatronum, Harry repeated under his breath, expectopatronum, concentrating hard on your happy memory? oh"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 340,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "think, plunging a hand down the neck of his robes, he whipped out his wand and roared, expectopatronum! something silver-white, something enormous, erupted from the end of his wand, he knew it had"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 520,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "and were getting closer, � expectopatronum! Harry yelled, trying to blot the screaming from his ears, expectopatronum! a thin wisp of silver escaped his wand and hovered like mist be�fore him, at the same"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 530,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "to remember � sirius was inno�cent � innocent � we�ll be okay � i�m going to live with him � expectopatronum! he gasped, by the feeble light of his formless patronus, he saw a dementor halt,"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 540,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "as though to sweep the patronus aside, no � no � Harry gasped, he�s innocent � expecto � expectopatronum � he could feel them watching him, hear their rattling breath like an evil wind around him,"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 545,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "feet from them, they formed a solid wall around Harry and hermione, and were getting closer, � expectopatronum! Harry yelled, trying to blot the screaming from his ears, expectopatronum! a thin wisp of"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 545,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "fight � expecto pa�tronum � he couldn�t see � and in the distance, he heard the fa�miliar screaming � expectopatronum � he groped in the mist for sirius, and found his arm � they weren�t going to take"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 545,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "moment, Harry felt hermione collapse next to him, he was alone � completely alone, � expecto � expectopatronum � Harry felt his knees hit the cold grass, fog was clouding his eyes, with a huge"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 545,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "be all right, i�m going to go and live with him, expectopatronum! hermione, help me! expectopatronum! expecto � hermione whispered, expecto � expecto � but she couldn�t do it, the dementors were"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 545,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "the dursleys, he forced himself to think of black, and only black, and began to chant : expectopatronum! expectopatronum! black gave a shudder, rolled over, and lay motionless on the ground, pale"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 545,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "ground, pale as death, he�ll be all right, i�m going to go and live with him, expectopatronum! hermione, help me! expectopatronum! expecto � hermione whispered, expecto � expecto � but she"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 545,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": ". he forced himself to think of black, and only black, and began to chant : expectopatronum! expectopatronum! black gave a shudder, rolled over, and lay motionless on the ground, pale as death"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 550,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "� he had seen himself � Harry flung himself out from behind the bush and pulled out his wand, expectopatronum! he yelled, and out of the end of his wand burst, not a shapeless cloud of"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 4,
+   "Name": "Goblet of Fire",
+   "Position": 570,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "of getting out of the maze and celebrating with ron and hermione, raised his wand, and cried, expectopatronum! a silver stag erupted from the end of Harry�s wand and galloped toward the dementor, which fell"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 10,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "see ron and hermione again � and their faces burst clearly into his mind as he fought for breath � expectopatronum! an enormous silver stag erupted from the tip of Harry�s wand; its antlers caught the dementor in"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 25,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "scabbed hands slid from inside the dementor�s robes, reaching for him, a rushing noise filled Harry�s ears, expectopatronum! his voice sounded dim and distant, � another wisp of silver smoke, feebler than the last"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 32,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "beneath its robes, sucking on the night as it came, stumbling backward, Harry raised his wand, expectopatronum! a silvery wisp of vapor shot from the tip of the wand and the de�mentor slowed, but"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 480,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "bonus point �? Harry raised his wand, looked directly at umbridge, and imagined her being sacked, expectopatronum! the silver stag erupted from the end of his wand and cantered the length of the hall,"
+ },
+ {
+   "Spell": "Expecto Patronum",
+   "Colors": "#007ACC",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 485,
+   "Classification": "Charm",
+   "Effect": "Creates a Patronus",
+   "SpellLower": "expectopatronum",
+   "Concordance": "seriously, have you grown to care for the boy, after all? for him? shouted snape, expectopatronum! from the tip of his wand burst the silver doe : she landed on the office floor,"
+ }
+]
+}

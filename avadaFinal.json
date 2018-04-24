@@ -1,0 +1,181 @@
+{
+"spells":
+[
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 4,
+   "Name": "Goblet of Fire",
+   "Position": 190,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "ah, said moody, another slight smile twisting his lopsided mouth, yes, the last and worst, avadakedavra … the killing curse, he put his hand into the glass jar, and almost as though it"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 4,
+   "Name": "Goblet of Fire",
+   "Position": 195,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "the third time, she raised it into the air, yes? said moody, looking at her, avadakedavra, hermione whispered, several people looked uneasily around at her, including ron, ah, said moody"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 4,
+   "Name": "Goblet of Fire",
+   "Position": 199,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "frantically across the wooden surface, moody raised his wand, and Harry felt a sudden thrill of foreboding, avadakedavra! moody roared, there was a flash of blinding green light and a rushing sound, as though"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 4,
+   "Name": "Goblet of Fire",
+   "Position": 204,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": ". constant vigilance! he roared, and the whole class jumped again, now … those three curses — avadakedavra, imperius, and cruciatus — are known as the unforgivable curses, the use of any one of"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 4,
+   "Name": "Goblet of Fire",
+   "Position": 207,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "were right, weren’t they? he really knows his stuff, moody, doesn’t he? when he did avadakedavra, the way that spider just died, just snuffed it right — but ron fell suddenly silent at"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 40,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "is? said Harry, could be anything, said fred, but there can’t be anything worse than the avadakedavra curse, can there? said ron, what’s worse than death? maybe it’s something that can kill"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 60,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "he was powerful before? yes, like what kind of weapon? said Harry, something worse than the avadakedavra —? that’s enough, mrs. weasley spoke from the shadows beside the door, Harry had not noticed"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 580,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "to you, potter, he said quietly, you have irked me too often, for too long, avadakedavra! Harry had not even opened his mouth to resist, his mind was blank, his wand pointing"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 6,
+   "Name": "Half Blood Prince",
+   "Position": 185,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "far as i am aware, they do not know to this day how the riddles died, for the avadakedavra curse does not usually leave any sign of damage, … the exception sits before me, dumbledore added"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 6,
+   "Name": "Half Blood Prince",
+   "Position": 355,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "lines of his face, severus … please … snape raised his wand and pointed it directly at dumbledore, avadakedavra! a jet of green light shot from the end of snape’s wand and hit dumbledore squarely in the"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 6,
+   "Name": "Half Blood Prince",
+   "Position": 480,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "luna’s mouth trembled, — more death eaters arrived — and then snape — and snape did it, the avadakedavra, Harry couldn’t go on, madam pomfrey burst into tears, nobody paid her any atten­tion except ginny"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 80,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "hair, snape looked back at her, quite impassive, as she turned slowly away from him again, avadakedavra, the flash of green light illuminated every corner of the room, charity fell, with a resounding"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 110,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "himself, and if i stunned him and he’d fallen, he’d have died the same as if i’d used avadakedavra! expelliarmus saved me from voldemort two years ago, Harry added defiantly, lupin was reminding him of"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 300,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "not like it crying, he had never been able to stomach the small ones whining in the orphanage — avadakedavra! and then he broke : he was nothing, nothing but pain and terror, and he must"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 302,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "hold him off, without a wand in his hand! … he laughed before casting the curse, … avadakedavra! the green light filled the cramped hallway, it lit the pram pushed against the wall, it"
+ },
+ {
+   "Spell": "Avada Kedavra",
+   "Colors": "#421fd3",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 540,
+   "Classification": "Curse",
+   "Effect": "Murders opponentUnforgivable",
+   "SpellLower": "avadakedavra",
+   "Concordance": "heard the high voice shriek as he too yelled his best hope to the heavens, pointing draco’s wand : avadakedavra! expelliarmus! the bang was like a cannon blast, and the golden flames that erupted between them"
+ }
+]
+}

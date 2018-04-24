@@ -1,0 +1,225 @@
+{
+"spells":
+[
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 2,
+   "Name": "Chamber of Secrets",
+   "Position": 300,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "as a school prefect � but Harry had lost his tem�per, he pulled out his wand and shouted, expelliarmus! and just as snape had disarmed lockhart, so malfoy found the diary shoot�ing out of his hand"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 2,
+   "Name": "Chamber of Secrets",
+   "Position": 420,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "book � Harry reached his wand just in time, lockhart had barely raised his, when Harry bellowed, expelliarmus! lockhart was blasted backward, falling over his trunk; his wand flew high into the air;"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 430,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "there with his wand covering black, and then to black himself, crumpled and bleeding at Harry�s feet, expelliarmus! lupin shouted, Harry�s wand flew once more out of his hand; so did the two hermione"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 450,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "it looked like a skull, his yellow teeth were bared in a grin, it was sirius black, expelliarmus! he croaked, pointing ron�s wand at them, Harry�s and hermione�s wands shot out of their hands"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 455,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "a split second, before snape could take even one step toward him, he had raised his wand, expelliarmus! he yelled � except that his wasn�t the only voice that shouted, there was a blast that"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 510,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "the ground, another bang � crookshanks flew into the air and back to the earth in a heap, expelliarmus! Harry yelled, pointing his own wand at petti�grew; lupin�s wand flew high into the air and"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 261,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "count of three, then � one, two, three � the room was suddenly full of shouts of expelliarmus! : wands flew in all directions, missed spells hit books on shelves and sent them flying into"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 268,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "risk being caught and punished by filch for being out-of-bounds, he blew his whistle; everybody stopped shouting, expelliarmus! and the last couple of wands clat�tered to the floor, well, that was pretty good,"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 273,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "useful � oh please, said zacharias smith, rolling his eyes and folding his arms, i don�t think expelliarmus is exactly going to help us against you-know-who, do you? i�ve used it against him, said"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 273,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "but merely causing them to jump backward a few paces or wince as the feeble spell whooshed over them, expelliarmus! said neville, and Harry, caught unawares, felt his wand fly out of his hand,"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 517,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "overturned his desk in his anxiety to help; pointing his wand wildly at the struggling pair he cried, expelliarmus! both Harry�s and the death eater�s wands flew out of their hands and soared back toward the entrance"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 6,
+   "Name": "Half Blood Prince",
+   "Position": 343,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "drawing his wand as he did so, the door burst open and somebody erupted through it and shouted, expelliarmus! Harry�s body became instantly rigid and immobile, and he felt himself fall back against the tower wall"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 6,
+   "Name": "Half Blood Prince",
+   "Position": 349,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "like an unsteady statue, unable to move or speak, he could not understand how it had happened � expelliarmus was not a freezing charm � then, by the light of the mark, he saw dumbledore�s wand"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 107,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "red light of his next stunning spell, Harry saw the strangely blank face of stanley shunpike � stan � expelliarmus! Harry yelled, that�s him, it�s him, it�s the real one! the hooded death eater�s"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 115,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": ", but the death eaters � frankly, most people! � would have expected you to attack back! expelliarmus is a useful spell, Harry, but the death eaters seem to think it is your signature move"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 120,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "and if i stunned him and he�d fallen, he�d have died the same as if i�d used avadakedavra! expelliarmus saved me from voldemort two years ago, Harry added defiantly, lupin was reminding him of the sneering"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 210,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": ". mundungus scrambled up and pulled out his wand; hermione, however, was too quick for him, expelliarmus! mundungus�s wand soared into the air, and hermione caught it, wild-eyed, mundungus dived for the"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 304,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "it up, lumos! the wand sparked feebly, then went out, Harry pointed it at hermione, expelliarmus! hermione�s wand gave a little jerk, but did not leave her hand, the feeble attempt at"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 375,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "into the drawing room; bellatrix looked around, shocked; she turned her wand to face ron instead � expelliarmus! he roared, pointing wormtail�s wand at bellatrix, and hers flew into the air and was caught"
+ },
+ {
+   "Spell": "Expelliarmus",
+   "Colors": "#CC99FF",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 550,
+   "Classification": "Charm",
+   "Effect": "Disarms your opponent",
+   "SpellLower": "expelliarmus",
+   "Concordance": "high voice shriek as he too yelled his best hope to the heavens, pointing draco�s wand : avadakedavra! expelliarmus! the bang was like a cannon blast, and the golden flames that erupted between them, at"
+ }
+]
+}
