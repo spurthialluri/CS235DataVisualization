@@ -1,0 +1,104 @@
+{
+"spells":
+[
+ {
+   "Spell": "Alohomora",
+   "Colors": "#4DFF4D",
+   "Book": 1,
+   "Name": "Sorcerer's Stone",
+   "Position": 240,
+   "Classification": "Charm",
+   "Effect": "Opens locked objects",
+   "SpellLower": "alohomora",
+   "Concordance": "oh, move over, hermione snarled, she grabbed Harry�s wand, tapped the lock, and whispered, alohomora! the lock clicked and the door swung open � they piled through it, shut it quickly,"
+ },
+ {
+   "Spell": "Alohomora",
+   "Colors": "#4DFF4D",
+   "Book": 1,
+   "Name": "Sorcerer's Stone",
+   "Position": 500,
+   "Classification": "Charm",
+   "Effect": "Opens locked objects",
+   "SpellLower": "alohomora",
+   "Concordance": ". they tugged and heaved at the door, but it wouldn�t budge, not even when hermione tried her alohomora charm, now what? said ron, these birds � they can�t be here just for decoration,"
+ },
+ {
+   "Spell": "Alohomora",
+   "Colors": "#4DFF4D",
+   "Book": 3,
+   "Name": "Prisoner of Azkaban",
+   "Position": 570,
+   "Classification": "Charm",
+   "Effect": "Opens locked objects",
+   "SpellLower": "alohomora",
+   "Concordance": ", and she took out her wand, still gripping the back of Harry�s robes with her left hand, alohomora! the window sprang open, how � how �? said black weakly, staring at the hippogriff"
+ },
+ {
+   "Spell": "Alohomora",
+   "Colors": "#4DFF4D",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 320,
+   "Classification": "Charm",
+   "Effect": "Opens locked objects",
+   "SpellLower": "alohomora",
+   "Concordance": ", ron said quietly, the healer pointed her wand at the door of the janus thickey ward and muttered alohomora, the door swung open and she led the way inside, keeping a firm grasp on gilderoy�s arm"
+ },
+ {
+   "Spell": "Alohomora",
+   "Colors": "#4DFF4D",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 440,
+   "Classification": "Charm",
+   "Effect": "Opens locked objects",
+   "SpellLower": "alohomora",
+   "Concordance": "gave me a knife that�ll open any lock, said Harry, so even if she�s bewitched the door so alohomora won�t work, which i bet she has � what do you think about this? hermione demanded of"
+ },
+ {
+   "Spell": "Alohomora",
+   "Colors": "#4DFF4D",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 529,
+   "Classification": "Charm",
+   "Effect": "Opens locked objects",
+   "SpellLower": "alohomora",
+   "Concordance": "she pointed her wand at the place where a lock would have been on an ordinary door and said, alohomora! nothing happened, sirius�s knife! said Harry, and he pulled it out from inside his robes"
+ },
+ {
+   "Spell": "Alohomora",
+   "Colors": "#4DFF4D",
+   "Book": 5,
+   "Name": "Order of Phoenix",
+   "Position": 536,
+   "Classification": "Charm",
+   "Effect": "Opens locked objects",
+   "SpellLower": "alohomora",
+   "Concordance": "large and heavy collide with the door hermione had charmed shut, stand aside! said a rough voice, alohomora! as the door flew open, Harry, hermione, and neville dived under desks, they could"
+ },
+ {
+   "Spell": "Alohomora",
+   "Colors": "#4DFF4D",
+   "Book": 6,
+   "Name": "Half Blood Prince",
+   "Position": 80,
+   "Classification": "Charm",
+   "Effect": "Opens locked objects",
+   "SpellLower": "alohomora",
+   "Concordance": ". but when he put out a hand to push open the gates, he found them chained shut, alohomora! he said confidently, pointing his wand at the pad�lock, but nothing happened, that won�t work"
+ },
+ {
+   "Spell": "Alohomora",
+   "Colors": "#4DFF4D",
+   "Book": 7,
+   "Name": "Deathly Hallows",
+   "Position": 203,
+   "Classification": "Charm",
+   "Effect": "Opens locked objects",
+   "SpellLower": "alohomora",
+   "Concordance": ". he pushed the door : it was locked, hermione pointed her wand at the handle and said, alohomora, there was a click, and the door swung open, they moved over the threshold together,"
+ }
+]
+}
